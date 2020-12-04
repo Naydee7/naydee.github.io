@@ -1,0 +1,190 @@
+{
+  "Iklan": [
+    {
+      "status": "0",
+      "link": "https://play.google.com/store/apps/details?id=com.",
+      "interid": "ca-app-pub-9839444854691248/7155599972",
+      "nativeid": "ca-app-pub-9839444854691248/4963700840",
+      "openads": "ca-app-pub-9839444854691248/4010561886",
+      "interval": 1,
+      "pengaturan_iklan": "1",
+      "fan_inter": "",
+      "fan_banner_native": "",
+      "startaap": "",
+      "mopub_banner": "",
+      "mopub_inter": "",
+      "unityID": "",
+      "unity_inter": "",
+      "unity_banner": ""
+    }
+  ],
+  "More": [
+    {
+      "id": 1,
+      "judul": "Cute Among Us Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/Ofx_UVQZ6skK6FdGY2iMedxjV5vD2KAwG_eRE0F41th05-cKVX9atRwlR0qKKJkx_VY=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.kulidev.amonguswallpaperhd"
+    },
+    {
+      "id": 2,
+      "judul": "Cute Bear Cartoon Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/m_qYrC4WJ9Utr_pF89iZAcGBFSFabWgqwpQrESY05CV29v4Xf-Qh-rfG0R36I42iaUE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.kulidev.cutebearwallpapershd"
+    },
+    {
+      "id": 3,
+      "judul": "Kawai Lol BT21 Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/i4KBxKSPsl2-J_R96eVmnjFVcjEHR8uCFDVXGjDvJ4WRIlILFD_9gd6uL3AmHMpueV0=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.kulidev.bt21wallpapershdbtsarmy"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "nama_cat": "FF",
+      "gambar": "https://i.pinimg.com/564x/4d/a9/66/4da966f493fa3f88f2b360977236ba8a.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": 1,
+      "id_wall": "001",
+      "nama_cat": "FF",
+      "judul": "FF",
+      "image": "https://i.pinimg.com/564x/d2/00/e2/d200e2cf3c98f6d4ca6f5ea38d4fcdb4.jpg"
+    },
+    {
+      "id": 2,
+      "id_wall": "002",
+      "nama_cat": "FF",
+      "judul": "FF",
+      "image": "https://i.pinimg.com/564x/21/d8/b5/21d8b5ba0defe1ce41cdb6434961d1b2.jpg"
+    },
+    {
+      "id": 3,
+      "id_wall": "003",
+      "nama_cat": "FF",
+      "judul": "FF",
+      "image": "https://i.pinimg.com/564x/9e/a6/3c/9ea63c4e784746b4a894e7e7a6a3d517.jpg"
+    },
+    {
+      "id": 4,
+      "id_wall": "004",
+      "nama_cat": "FF",
+      "judul": "FF",
+      "image": "https://i.pinimg.com/564x/50/58/ed/5058ed817feac0155b066bc68e137261.jpg"
+    },
+    {
+      "id": 5,
+      "id_wall": "005",
+      "nama_cat": "FF",
+      "judul": "FF",
+      "image": "https://i.pinimg.com/564x/47/25/7e/47257e0f73b0e9171227ad3dd0073946.jpg"
+    },
+    {
+      "id": 6,
+      "id_wall": "006",
+      "nama_cat": "FF",
+      "judul": "FF",
+      "image": "https://i.pinimg.com/564x/3f/43/70/3f43707c42d77700181022c7af65d353.jpg"
+    },
+    {
+      "id": 7,
+      "id_wall": "007",
+      "nama_cat": "FF",
+      "judul": "FF",
+      "image": "https://i.pinimg.com/564x/08/a1/25/08a125ed4d4a4a61d7da8fb43bbafba2.jpg"
+    },
+    {
+      "id": 8,
+      "id_wall": "008",
+      "nama_cat": "FF",
+      "judul": "FF",
+      "image": "https://i.pinimg.com/564x/4d/a9/66/4da966f493fa3f88f2b360977236ba8a.jpg"
+    },
+    {
+      "id": 9,
+      "id_wall": "009",
+      "nama_cat": "FF",
+      "judul": "FF",
+      "image": "https://i.pinimg.com/564x/ba/a0/9c/baa09c0f39b907a39fa6018d67f411df.jpg"
+    },
+    {
+      "id": 10,
+      "id_wall": "010",
+      "nama_cat": "FF",
+      "judul": "FF",
+      "image": "https://i.pinimg.com/564x/f1/6e/75/f16e75bdb00a34b86398075946519d79.jpg"
+    },
+    {
+      "id": 11,
+      "id_wall": "011",
+      "nama_cat": "FF",
+      "judul": "FF",
+      "image": "https://i.pinimg.com/564x/57/c8/61/57c861a0890f5eef00fab3b3e0ac6f22.jpg"
+    },
+    {
+      "id": 12,
+      "id_wall": "012",
+      "nama_cat": "FF",
+      "judul": "FF",
+      "image": "https://i.pinimg.com/564x/c2/cc/bd/c2ccbd235765848e1d35a0d67d825bf8.jpg"
+    },
+    {
+      "id": 13,
+      "id_wall": "013",
+      "nama_cat": "FF",
+      "judul": "FF",
+      "image": "https://i.pinimg.com/564x/64/71/94/6471945e35b3025c7aba355d0effa986.jpg"
+    },
+    {
+      "id": 14,
+      "id_wall": "014",
+      "nama_cat": "FF",
+      "judul": "FF",
+      "image": "https://i.pinimg.com/564x/91/91/97/9191979f44744aa9e162168e38c84cf9.jpg"
+    },
+    {
+      "id": 15,
+      "id_wall": "015",
+      "nama_cat": "FF",
+      "judul": "FF",
+      "image": "https://i.pinimg.com/564x/e2/4f/52/e24f52320b465c6ff78b02a011af6050.jpg"
+    },
+    {
+      "id": 16,
+      "id_wall": "016",
+      "nama_cat": "FF",
+      "judul": "FF",
+      "image": "https://i.pinimg.com/564x/fd/9b/9a/fd9b9a344daf91cc777b9768f84bda9b.jpg"
+    },
+    {
+      "id": 17,
+      "id_wall": "017",
+      "nama_cat": "FF",
+      "judul": "FF",
+      "image": "https://i.pinimg.com/564x/cd/de/aa/cddeaa2f2937ae896a303a9a9e264bed.jpg"
+    },
+    {
+      "id": 18,
+      "id_wall": "018",
+      "nama_cat": "FF",
+      "judul": "FF",
+      "image": "https://i.pinimg.com/564x/a7/7b/ac/a77bacea9c1f0e46a29908207570def5.jpg"
+    },
+    {
+      "id": 19,
+      "id_wall": "019",
+      "nama_cat": "FF",
+      "judul": "FF",
+      "image": "https://i.pinimg.com/564x/93/bb/fb/93bbfb345f94e53a5521e1ab10fce1e3.jpg"
+    },
+    {
+      "id": 20,
+      "id_wall": "020",
+      "nama_cat": "FF",
+      "judul": "FF",
+      "image": "https://i.pinimg.com/564x/09/96/b6/0996b6009dffe4c45f73535a26e08fbe.jpg"
+    }
+  ]
+}
