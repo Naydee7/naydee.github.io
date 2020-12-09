@@ -1633,7 +1633,7 @@
       "id_wall": "227",
       "nama_cat": "FF",
       "judul": "FF",
-      "image": "https://www.pockettactics.com/wp-content/uploads/2020/12/garena-free-fire-cristiano-ronaldo-chrono.jpg"
+      "image": "https://i.pinimg.com/564x/12/85/f7/1285f7d7a3d6307f799bee99776561c3.jpg"
     },
     {
       "id": 228,
@@ -1641,6 +1641,13 @@
       "nama_cat": "FF",
       "judul": "FF",
       "image": "https://media-assets-ggwp.s3.ap-southeast-1.amazonaws.com/2020/06/wallpaper-free-fire-11.jpg"
+    },
+    {
+      "id": 229,
+      "id_wall": "229",
+      "nama_cat": "FF",
+      "judul": "FF",
+      "image": "https://i.pinimg.com/564x/7a/31/18/7a3118fd6c80bc3f1b8accd1e3412e2c.jpg"
     }
   ]
 }
